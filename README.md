@@ -34,7 +34,4 @@ Mice dosed with Ramicane or Capomulin appear to have higher survival rates at 45
 As noted above, only Ramicane and Capomulin were associated with a decrease in mean tumor size.  Ramicane was associated with a 22.2% decrease and Capomulin was associated with a 19.6% decrease.  For comparison, the best performing comparitor, Ceftamin, was associated with a 42.4% increase in mean tumor size.
 
 ### Programmatic issues
-   * Could not identify satisfactory way to add footnotes (consistent location and spacing)
-   * Ran out of time to sort legend consistently
-   * Images are very large, but this is intentional to allow for zooming
    * I realized as a wrote this document that Percent Change from Baseline should have been derived on a per-mouse basis, then aggregated.  I have instead presented the percent change in the aggregate summary.
